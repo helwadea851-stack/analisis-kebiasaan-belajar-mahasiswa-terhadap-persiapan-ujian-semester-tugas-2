@@ -1,4 +1,4 @@
-# analisis-kebiasaan-mahasiswa-tugas-2 
+# analisis-kebiasaan-belajar-mahasiswa-terhadap-persiapan-ujian-semester-tugas-2 
 ## Latar Belakang
 Kebiasaan belajar mahasiswa merupakan salah satu faktor penting yang memengaruhi kesiapan dalam menghadapi ujian semester. Pola belajar yang teratur, manajemen waktu yang baik, serta konsistensi dalam memahami materi dapat membantu meningkatkan pemahaman akademik dan hasil belajar mahasiswa.
 Namun, pada kenyataannya masih banyak mahasiswa yang memiliki kebiasaan belajar yang berbeda-beda, seperti belajar hanya menjelang ujian, kurangnya jadwal belajar yang teratur, maupun rendahnya intensitas latihan soal. Perbedaan kebiasaan belajar tersebut dapat memengaruhi tingkat kesiapan mahasiswa dalam menghadapi ujian semester.
